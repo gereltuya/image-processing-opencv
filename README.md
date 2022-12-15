@@ -16,3 +16,7 @@
 14. Do histogram equalization
 15. Change the white balance, make a "warmer" picture
 16. Change the white balance, make the picture more "cold"
+17. Change the color palette according to a given template
+18. Do image binarization
+19. Find contours in binarized image
+20. Draw contours on the image by applying filters (Sobel or Laplacian)
